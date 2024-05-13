@@ -1,0 +1,1 @@
+Bu çalışmada dotnet kullanarak kullanıcıların başvuru yapabileceği bir form uygulaması yaptım. İçeriğine detaylı bakarsak başvuran mail adresiyle bir başvuru daha almayacak şekilde diyazn ettim. Bunun yanı sıra yapılan başvuruları görüntüleyebilecek bir sayfa daha tasarladım.
